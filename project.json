@@ -1,0 +1,8 @@
+{
+    "name": "args_parser", 
+    "type": "lib", 
+    "author": "Ethan Morgan <ethan@epmor.app>",
+    "version": "0.1", 
+    "description": "A basic argument parser for Odin", 
+    "dependencies": {}
+}
