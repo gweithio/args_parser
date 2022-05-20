@@ -2,7 +2,7 @@
 
 A small args parser for Odin
 
-*Refactored version based of Jeroen*
+**Refactored version from of Jeroen**
 
 ## Usage
 ```go
