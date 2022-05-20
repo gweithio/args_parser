@@ -2,6 +2,8 @@
 
 A small args parser for Odin
 
+*Refactored version based of Jeroen*
+
 ## Usage
 ```go
 // Will return the key and value, where `key == hello` and `value == 1234` 
